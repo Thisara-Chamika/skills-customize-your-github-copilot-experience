@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "inventory-tracker-dictionaries",
+      "title": "Inventory Tracker with Dictionaries",
+      "description": "Practice storing and updating inventory data with Python dictionaries.",
+      "path": "assignments/inventory-tracker-dictionaries",
+      "dueDate": "2026-06-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
